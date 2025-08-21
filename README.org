@@ -3,7 +3,7 @@
 A parser for OpenGL Shader Language source files
 
 |---------+---------------------------------------------------|
-| source  | git:https://github.com/Shirakumo/glsl-toolkit.git |
+| source  | git:https://codeberg.org/shirakumo/glsl-toolkit.git |
 | commit  | 1723d86                                           |
 | systems | glsl-toolkit                                      |
 |---------+---------------------------------------------------|
